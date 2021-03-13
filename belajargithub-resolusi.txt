@@ -1,5 +1,5 @@
 resolusi belajar github
-1. konsisten 2 materi dalam 1 minggu
+1. membuat portofolio
 2. mampu mengimplementasikan ilmu yang dipelajari
 3. upgrade skill terus menerus
 4. ini aku lagi blajar cara edit file/repo
